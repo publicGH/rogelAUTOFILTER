@@ -44,10 +44,7 @@ SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'mallu_movies_Group_2')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
 SINGLE_BUTTON = is_enabled((environ.get('SINGLE_BUTTON', "False")), False)
-CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", '📂 <em>File Name</em>: <code>DQ|{file_name}</code> \n\n🖇 <em>File Size</em>: <code>{file_size}</code> \n\n❤️‍🔥 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═════╗
-♻️ 𝙅𝙊𝙄𝙉 :- @NM_LinksTG
-♻️ 𝙅𝙊𝙄𝙉 :- @Mallu_Movies_Group_2
-╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═════╝')
+CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", f"{script.CUSTOM_FILE_CAPTION}")
 BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", CUSTOM_FILE_CAPTION)
 IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", "📁 Here is What I Found In My Database For Your Query : {search}
 𝗬𝗼𝘂𝗿 𝗥𝗲𝗾𝘂𝗲𝘀𝘁 𝗜𝘀 𝗥𝗲𝗮𝗱𝘆👇")
