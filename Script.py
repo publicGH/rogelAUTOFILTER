@@ -99,5 +99,8 @@ Name - {}
 
 ♻️ 𝙅𝙊𝙄𝙉 :- @Mallu_Movies_Group_2
 
-╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═════╝ """
+╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═════╝ </b> """
+    IMDB_TEMPLATE = """
+<b>📁 Here is What I Found In My Database For Your Query 👇</b>"""
+
 
