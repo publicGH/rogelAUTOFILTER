@@ -17,14 +17,14 @@ class script(object):
 ✯ Lɪʙʀᴀʀʏ: Pyrogram
 ✯ Lᴀɴɢᴜᴀɢᴇ: Python 3
 ✯ DᴀᴛᴀBᴀsᴇ: MongoDB
-✯ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href=https://t.me/Power_SERVER>Power Server</a>
+✯ Bᴏᴛ Sᴇʀᴠᴇʀ: Power Server
 ✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.3 [ Sᴛᴀʙʟᴇ ]"""
    
     SOURCE_TXT = """<b>NOTE:</b>
 - This repo is not for you sire!!
 <b>DEVS:</b>
 - <a href=https://t.me/rokuta_kamado>Me</a>"""
-    MANUELFILTER_TXT = """𝐓𝐡𝐞𝐫𝐞 𝐢𝐬 𝐧𝐨 𝐦𝐚𝐧𝐮𝐚𝐥 𝐟𝐢𝐥𝐭𝐞𝐫 𝐟𝐨𝐫 𝐲𝐨𝐮 𝐬𝐢𝐫𝐞!! 𝐈 𝐚𝐦 𝐦𝐚𝐝𝐞 𝐨𝐧𝐥𝐲 𝐟𝐨𝐫 @Malu_movies_group_2 """
+    MANUELFILTER_TXT = """𝐓𝐡𝐞𝐫𝐞 𝐢𝐬 𝐧𝐨 𝐦𝐚𝐧𝐮𝐚𝐥 𝐟𝐢𝐥𝐭𝐞𝐫 𝐟𝐨𝐫 𝐲𝐨𝐮 𝐬𝐢𝐫𝐞!! 𝐈 𝐚𝐦 𝐦𝐚𝐝𝐞 𝐨𝐧𝐥𝐲 𝐟𝐨𝐫 @Mallu_movies_group_2 """
     BUTTON_TXT = """🐖 Are you a Spammer ! """
     AUTOFILTER_TXT = """𝐖𝐡𝐲 𝐚𝐫𝐞 𝐘𝐨𝐮 𝐥𝐨𝐨𝐤𝐢𝐧𝐠 𝐟𝐨𝐫 𝐡𝐞𝐥𝐩, 𝐀𝐬 𝐈 𝐬𝐚𝐢𝐝 𝐭𝐡𝐢𝐬 𝐛𝐨𝐭 𝐢𝐬 𝐧𝐨𝐭 𝐟𝐨𝐫 𝐲𝐨𝐮 𝐬𝐢𝐫𝐞! """  
     
