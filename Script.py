@@ -89,3 +89,15 @@ Name - {}
 ⏰ 𝖳𝗂𝗆𝖾 : <code>{}</code>
 🌐 𝖳𝗂𝗆𝖾𝗓𝗈𝗇𝖾 : <code>Asia/Kolkata</code>
 🛠️ 𝖡𝗎𝗂𝗅𝖽 𝖲𝗍𝖺𝗍𝗎𝗌 : <code>𝗏2.3 [ 𝖲𝗍𝖺𝖻𝗅𝖾 ]</code></b>"""
+    CUSTOM_FILE_CAPTION = """
+
+<b>📂Fɪʟᴇɴᴀᴍᴇ : <code>{file_name}</code>
+
+╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═════╗
+
+♻️ 𝙅𝙊𝙄𝙉 :- @NM_LinksTG
+
+♻️ 𝙅𝙊𝙄𝙉 :- @Mallu_Movies_Group_2
+
+╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═════╝"""
+
